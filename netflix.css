@@ -1,0 +1,87 @@
+#cabecalho{
+    display: flex;
+}
+body{
+    background-color: black;
+}
+#logo{
+    height: 100px;
+    width: 200px;
+    background-size: cover;
+}
+#texto{
+    font-size: 20px;
+    color:white;
+    position: relative;
+    margin-top: 20px;
+}
+
+#dark{
+    width: 180px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    right: 600px;
+    transition: transform 1s;
+    transform: translateX(0) scale(1);    
+}
+#dark:hover,
+#dark:focus{
+    transform: translateX(10px) scale(1.2);
+}
+
+#breakingbad{
+    width: 180px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    right: 500px;
+    transition: transform 1s;
+    transform: translateX(0) scale(1);
+    border: 5px;
+}
+#breakingbad:hover,
+#breakingbad:focus{
+    transform: translate(10px) scale(1.2);
+}
+#stranger-things{
+    width: 180px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    right: 400px;
+    transition: transform 1s;
+    transform: translateX(0) scale(1); 
+}
+#stranger-things:hover,
+#stranger-thing:focus{
+    transform: translate(10px) scale(1.2);
+}
+#suits{
+    width: 180px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    right: 250px;
+    transition: transform 1s;
+    transform: translateX(0) scale(1);
+}
+#suits:hover,
+#suits:focus{
+    transform: translate(10px) scale(1.2);
+}
+
+#velozaesefuriosos:hover,
+#velozaesefuriosos:focus{
+    transform: translate(10px) scale(1.2);
+}
+#velozaesefuriosos{
+    width: 180px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    right: 30px;
+    transition: transform 1s;
+    transform: translateX(0) scale(1);
+}
+

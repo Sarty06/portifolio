@@ -8,3 +8,47 @@ body{
     position: relative;
     top: 100px;
 }
+#tituloprojetos{
+    font-size: 30px;
+    position: relative;
+    top: 100px;  
+}
+
+#botao{
+    position: relative;
+    top: 100px;
+
+}
+#botao1{
+    position: relative;
+    top: 200px;
+    
+}
+#botao2{
+    position: relative;
+    top: 400px;
+    
+
+}
+#botao3{
+    position: relative;
+    top: 600px;
+    
+    
+}
+#contatos{
+    color: black;
+    width: 1900px;
+    height: 40px;
+    background-color: white;
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    
+
+}
+
+
+
